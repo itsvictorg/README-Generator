@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "a node application that creates a professional readme based on user input in response to prompted questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsvictorg/README-generator.git"
+  },
+  "author": "Victor Gonzalez",
+  "license": "Open",
+  "bugs": {
+    "url": "https://github.com/itsvictorg/README-generator/issues"
+  },
+  "homepage": "https://github.com/itsvictorg/README-generator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "i": "^0.3.7",
+    "inquirer": "^8.2.4",
+    "util": "^0.12.3"
+  }
+}
